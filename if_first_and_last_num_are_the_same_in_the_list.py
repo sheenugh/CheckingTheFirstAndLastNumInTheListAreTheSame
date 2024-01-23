@@ -18,5 +18,5 @@ numbers_y = [75, 65, 35, 75, 30]
 result_in_x = is_last_and_first_num_same(numbers_x)
 print("The result is: ", result_in_x)
 result_in_y = is_last_and_first_num_same(numbers_y)
-print("The result is ", result_in_y)
+print("The result is: ", result_in_y)
 
